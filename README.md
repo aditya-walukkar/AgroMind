@@ -447,6 +447,6 @@ AgroMind turns raw field data into **simple, actionable intelligence**.
 
 ## 👥 Team
 
-**Triple BYTE**
+**Team Triple BYTE**
 
 *A student-led project exploring how accessible IoT and open-source AI can make agricultural decision-making smarter, simpler, and more actionable.*
